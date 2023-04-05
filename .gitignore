@@ -1,0 +1,19 @@
+### Python ###
+venv
+__pycache__
+.envrc
+.env
+
+### Database ###
+*.db
+instance
+
+### Mac OS ###
+.DS_Store
+
+### Zip File ###
+*.zip
+
+### Grades ###
+GradeDetails.txt
+
